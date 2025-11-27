@@ -26,3 +26,4 @@ override.tf, override.tf.json.
 
 Конфигурационные файлы CLI Terraform:
 .terraformrc, terraform.rc.
+Добавил новую строку ветку fix
