@@ -42,3 +42,33 @@ override.tf, override.tf.json.
 ![Сриншот ходя выполнения задания](https://github.com/Mazaich/devops-netology/blob/main/Screenshot_2025-11-25_15_06_19.png?raw=true)
 ![Сриншот ходя выполнения задания](https://github.com/Mazaich/devops-netology/blob/main/Screenshot_2025-11-25_15_06_34.png?raw=true)
 ![Сриншот ходя выполнения задания](https://github.com/Mazaich/devops-netology/blob/main/Screenshot_2025-11-25_15_10_12.png?raw=true)
+
+
+ЗАДАНИЕ по теме «Основы Git»
+
+1. Задание 1. Знакомимся с GitLab и Bitbucket
+
+Скриншоты порядка выполнения задания:
+![Сриншот ходя выполнения задания](https://github.com/Mazaich/devops-netology/blob/main/Screenshot_2025-11-27_12_14_37.png?raw=true)
+
+2. Задание 2. Теги
+![Сриншот ходя выполнения задания](https://github.com/Mazaich/devops-netology/blob/main/Screenshot_2025-11-27_15_12_59.png?raw=true)
+![Сриншот ходя выполнения задания](https://github.com/Mazaich/devops-netology/blob/main/Screenshot_2025-11-27_15_14_29.png?raw=true)
+![Сриншот ходя выполнения задания](https://github.com/Mazaich/devops-netology/blob/main/Screenshot_2025-11-27_15_15_49.png?raw=true)
+![Сриншот ходя выполнения задания](https://github.com/Mazaich/devops-netology/blob/main/2025-11-27_15-33-55.png?raw=true)
+![Сриншот ходя выполнения задания](https://github.com/Mazaich/devops-netology/blob/main/2025-11-27_15-35-09.png?raw=true)
+
+3. Задание 3. Ветки
+![Сриншот ходя выполнения задания](https://github.com/Mazaich/devops-netology/blob/main/Screenshot_2025-11-27_15_35_12.png?raw=true)
+![Сриншот ходя выполнения задания](https://github.com/Mazaich/devops-netology/blob/main/Screenshot_2025-11-27_15_45_17.png?raw=true)
+![Сриншот ходя выполнения задания](https://github.com/Mazaich/devops-netology/blob/main/Screenshot_2025-11-27_15_46_26.png?raw=true)
+![Сриншот ходя выполнения задания](https://github.com/Mazaich/devops-netology/blob/main/2025-11-27_15-52-06.png?raw=true)
+![Сриншот ходя выполнения задания](https://github.com/Mazaich/devops-netology/blob/main/2025-11-27_15-52-25.png?raw=true)
+![Сриншот ходя выполнения задания](https://github.com/Mazaich/devops-netology/blob/main/2025-11-27_15-58-27.png?raw=true)
+
+4. Задание 4. Упрощаем себе жизнь
+![Сриншот ходя выполнения задания](https://github.com/Mazaich/devops-netology/blob/main/Screenshot_2025-11-28_11_21_11.png?raw=true)
+![Сриншот ходя выполнения задания](https://github.com/Mazaich/devops-netology/blob/main/Screenshot_2025-11-28_12_05_15.png?raw=true)
+![Сриншот ходя выполнения задания](https://github.com/Mazaich/devops-netology/blob/main/Screenshot_2025-11-28_12_06_59.png?raw=true)
+![Сриншот ходя выполнения задания](https://github.com/Mazaich/devops-netology/blob/main/Screenshot_2025-11-28_12_28_42.png?raw=true)
+![Сриншот ходя выполнения задания](https://github.com/Mazaich/devops-netology/blob/main/Screenshot_2025-11-28_12_46_38.png?raw=true)
